@@ -1,0 +1,8 @@
+{
+    "name": "alerrandro/api-sem-framework",
+    "autoload": {
+        "psr-4": {
+            "api\\":"api/"
+        }
+    }
+}
